@@ -1,7 +1,7 @@
-# Windows 10 AME
+##### Dissected Windows 10 AME Debloating Scripts
 
-## (Bits n' Pieces)
+These are Powershell batch scripts taken from the [Windows 10 AME scripts](https://git.ameliorated.info/malte/scripts). 
+I no longer use Windows at all and haven't personally tested these scripts out for a while so I'm not sure if they work
+the way they should since there may have been an update that broke the fixes they do. *Pull requests are 100% welcome.*
 
-These are Powershell batch scripts taken from the [Windows 10 AME scripts](https://git.ameliorated.info/malte/scripts). I was wanting to use some parts of the script to remove telemetry and bloat from my Windows 10 installation, but didn't want to run the entirety of the script because there were a few bits I needed/wanted to keep. My solution was just to cut all the parts out for each section and make separate scripts, and viola!
-
-### USE CAUTION WHILE RUNNING THESE SCRIPTS, THEY MAKE CAUSE DAMAGE TO YOUR SYSTEM. I WILL NOT BE HELD RESPONSIBLE FOR DAMAGE DONE TO YOUR SYSTEM.
+###### *PLEASE* USE CAUTION WHEN RUNNING THESE SCRIPTS (OR ANY SCRIPTS AS ADMINISTRATOR), __THEY MAKE CAUSE DAMAGE TO YOUR SYSTEM__. I __WILL NOT BE HELD RESPONSIBLE FOR DAMAGES DONE.__
